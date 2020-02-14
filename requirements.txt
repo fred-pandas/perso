@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas 
+fiona 
+shapely 
+pyproj 
+seaborn
+matplotlib
+descartes
+mapclassify
+scikit-learn
+geopandas
+folium
+ipywidgets==7.4.2
