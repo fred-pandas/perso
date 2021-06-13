@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pillow
+folium
+pyroutelib3
+sympy
+ipywidgets
+pandas
+seaborn
+
