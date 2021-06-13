@@ -1,7 +1,0 @@
-numpy
-scipy
-pandas 
-seaborn
-matplotlib
-scikit-learn
-ipywidgets==7.4.2
